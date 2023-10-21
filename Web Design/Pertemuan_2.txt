@@ -1,0 +1,17 @@
+Catatan !!!
+===outline===
+- internet vs web
+- Protocol
+- Web Browser
+- Web Application Architecture
+
+--------------------------------
+- internet vs web
+Apa Itu Internet ??.
+= internet adalah sebuah jaringan untuk menghubungkan lebih dari 1 Perangkat untuk mengirim sebuah informasi.
+
+--------------------------------
+- Protocol
+  adalah sebuah aturan untuk komunikasi antara 2 komputer. baik komputer server dan client.
+
+protocolnya adalah http/https.

@@ -1,0 +1,20 @@
+=== History of Javascript ===
+Apa itu JavaScript ???
+dari pertanyaan di atas kita bisa bertanya - tanya ada apa dengan JavaScript ?. Kenapa Harus JavaScript ?.
+
+JavaScript Merupakan sebuah bahasa Script yang merupakan salah satu dari 3 bahasa utama yang di gunakan dalam sebuah website. Padahal HTML dan CSS memberikan website sebuah structure dan style. tetapi Javascript membuat website menjadi lebih menarik lagi yang memiliki sebuah fungsi - fungsi tertentu agar pengunjung website tertarik dengan website yang kita buat.
+
+Kemunculan Internet pada Tahun 1960
+pada tahun 1995 seorang dari Netscape programmer yang bernama Brandan Eich Mempublikasikan script baru hanya dalam 10 hari. yang memiliki nama asli Mocha. dan berubah lagi menjadi LiveScript. pada akhirnya juga di Rubah lagi menjadi JavaScript yang sering kita dengar sekarang
+
+pada tahun 1997 di berikanlahh sebuah specificasi atau standart untuk pembuatan sebuah bahasa. dan yang memegang itu adalah European Computer Manufacturers Association (ECMA).
+
+pada tahun 2005 di temukan ajax. ajax adalah sebuah jalur pull/push antara clint dan server.
+
+--------------------------------------------------------
+=== REACT === 
+
+ReactJs dibuat oleh Jordan Walke. seorang Sofware Engineer dari Facebook.
+
+ReactJS mamiliki banyak keuntungan salah satunya adalah Mudah Untuk Dipelajari.
+--------------------------------------------------------

@@ -1,0 +1,29 @@
+=== Definisi ===
+    Kita membuat sebuah model untuk disimpang dan di manipulasi
+
+model :
+- artistik
+- physical
+- struktur
+- conceptional
+- Biology
+
+yang dapat di Display ke layar/hardcopy device
+(untuk menyampaikan informasi lebih mudah)
+------------------------------------------------------------------
+=== History ===
+
+William Fetter Merupakan orang yang mendeklarasikan "Computer Graphic" Pada Dunia Di tahun 1960
+
+Interaction Computer Graphic:
+- User Control
+- Terstruktur
+- Berhubungan dengan objek
+
+dan penemu lainnya adalah Ivan Shuterland's Ph.D.
+yang merupakan Seseorang yang bisa di bilang menciptakan Sketchpad dan mempublikasikan
+pada Tahun 1963. 3 Tahun Setelah William Fetter mempublikasikan "Computer Graphic".
+
+Sketchpad digunakan untuk menggambar dalam sebuah layar sentuh seperti tablet.
+dan bisa melakukan autocorrect dan copy/paste dalam tablet yang dia ciptakan.
+-------------------------------------------------------------------
